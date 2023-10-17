@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello world</h1>
-    <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique reiciendis quos mollitia repellendus recusandae, voluptatem, harum libero adipisci minus hic ipsum, ut in ratione nobis magnam enim? Qui, neque suscipit.</h2>
+    <h2>test timezone_name_get</h2>
+    <h3>Lorem, ipsum.</h3>
 </body>
 </html>
